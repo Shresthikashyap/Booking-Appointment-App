@@ -1,0 +1,26 @@
+h2,h3{
+    text-align: center;
+    text-shadow:5px 5px 10px rgb(168, 166, 166);
+    padding-top: 3%;
+    padding-bottom: 1%;
+    color: rgb(21, 20, 20);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+body{
+    background-color: rgb(205, 205, 208);
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+#total,h6{
+    display: inline-block;
+}
+.book{
+    padding: 20px;
+    padding-bottom: 3%;
+    background-color: #b1adadf1;
+    border: 3px solid #0e0b10;
+    border-radius: 5px;
+    margin: 5px;
+}
