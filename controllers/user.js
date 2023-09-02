@@ -30,7 +30,6 @@ exports.getUsers = async(req, res) => {
 
 exports.updateUser = async(req,res) => {
   try{
-
     console.log('here --',req.params.id);
     const id = req.params.id;
     const name = req.body.name;
